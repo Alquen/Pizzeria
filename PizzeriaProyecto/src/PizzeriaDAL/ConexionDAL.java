@@ -10,5 +10,5 @@ package PizzeriaDAL;
  * @author alque
  */
 public class ConexionDAL {
-    
+    int prueba;
 }
