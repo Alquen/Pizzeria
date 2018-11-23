@@ -12,4 +12,5 @@ package PizzeriaDAL;
 public class prueba {
     int prueba;
     String d;
+    String cv;
 }
