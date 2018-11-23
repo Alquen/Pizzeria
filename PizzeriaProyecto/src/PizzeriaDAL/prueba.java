@@ -10,5 +10,6 @@ package PizzeriaDAL;
  * @author SistemasV2
  */
 public class prueba {
-    
+    int prueba;
+    String d;
 }
