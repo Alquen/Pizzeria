@@ -8,7 +8,7 @@ import java.sql.SQLException;
 
 public class ConexionDAL {
     
-    String CadenaConexion="jdbc:sqlite:C:\\Users\\alque\\Desktop\\7D\\Programacion\\practica3.db";
+    String CadenaConexion="jdbc:sqlite:C:\\Users\\SistemasV2\\Documents\\Navicat\\db\\BDpizzeria.db";
     Connection conn=null;
     
     public ConexionDAL(){
